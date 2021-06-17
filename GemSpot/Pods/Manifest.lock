@@ -1,0 +1,303 @@
+PODS:
+  - ActiveLabel (1.1.0)
+  - Alamofire (5.1.0)
+  - BSImagePicker (3.2.0)
+  - CarbonKit (2.3.1)
+  - CountryPickerView (3.1.1)
+  - CropViewController (2.5.2)
+  - DropDown (2.3.13)
+  - FBSDKCoreKit (6.3.0):
+    - FBSDKCoreKit/Basics (= 6.3.0)
+    - FBSDKCoreKit/Core (= 6.3.0)
+  - FBSDKCoreKit/Basics (6.3.0)
+  - FBSDKCoreKit/Core (6.3.0):
+    - FBSDKCoreKit/Basics
+  - FBSDKLoginKit (6.3.0):
+    - FBSDKLoginKit/Login (= 6.3.0)
+  - FBSDKLoginKit/Login (6.3.0):
+    - FBSDKCoreKit (~> 6.3.0)
+  - Firebase/Analytics (6.21.0):
+    - Firebase/Core
+  - Firebase/Core (6.21.0):
+    - Firebase/CoreOnly
+    - FirebaseAnalytics (= 6.4.0)
+  - Firebase/CoreOnly (6.21.0):
+    - FirebaseCore (= 6.6.5)
+  - Firebase/Crashlytics (6.21.0):
+    - Firebase/CoreOnly
+    - FirebaseCrashlytics (~> 4.0.0-beta.6)
+  - Firebase/Messaging (6.21.0):
+    - Firebase/CoreOnly
+    - FirebaseMessaging (~> 4.3.0)
+  - FirebaseAnalytics (6.4.0):
+    - FirebaseCore (~> 6.6)
+    - FirebaseInstallations (~> 1.1)
+    - GoogleAppMeasurement (= 6.4.0)
+    - GoogleUtilities/AppDelegateSwizzler (~> 6.0)
+    - GoogleUtilities/MethodSwizzler (~> 6.0)
+    - GoogleUtilities/Network (~> 6.0)
+    - "GoogleUtilities/NSData+zlib (~> 6.0)"
+    - nanopb (= 0.3.9011)
+  - FirebaseAnalyticsInterop (1.5.0)
+  - FirebaseCore (6.6.5):
+    - FirebaseCoreDiagnostics (~> 1.2)
+    - FirebaseCoreDiagnosticsInterop (~> 1.2)
+    - GoogleUtilities/Environment (~> 6.5)
+    - GoogleUtilities/Logger (~> 6.5)
+  - FirebaseCoreDiagnostics (1.2.2):
+    - FirebaseCoreDiagnosticsInterop (~> 1.2)
+    - GoogleDataTransportCCTSupport (~> 2.0)
+    - GoogleUtilities/Environment (~> 6.5)
+    - GoogleUtilities/Logger (~> 6.5)
+    - nanopb (~> 0.3.901)
+  - FirebaseCoreDiagnosticsInterop (1.2.0)
+  - FirebaseCrashlytics (4.0.0-beta.6):
+    - FirebaseAnalyticsInterop (~> 1.2)
+    - FirebaseCore (~> 6.6)
+    - FirebaseInstallations (~> 1.1)
+    - GoogleDataTransport (~> 5.1)
+    - GoogleDataTransportCCTSupport (>= 2.0.1, ~> 2.0)
+    - nanopb (~> 0.3.901)
+    - PromisesObjC (~> 1.2)
+  - FirebaseInstallations (1.1.1):
+    - FirebaseCore (~> 6.6)
+    - GoogleUtilities/UserDefaults (~> 6.5)
+    - PromisesObjC (~> 1.2)
+  - FirebaseInstanceID (4.3.4):
+    - FirebaseCore (~> 6.6)
+    - FirebaseInstallations (~> 1.0)
+    - GoogleUtilities/Environment (~> 6.5)
+    - GoogleUtilities/UserDefaults (~> 6.5)
+  - FirebaseMessaging (4.3.1):
+    - FirebaseAnalyticsInterop (~> 1.5)
+    - FirebaseCore (~> 6.6)
+    - FirebaseInstanceID (~> 4.3)
+    - GoogleUtilities/AppDelegateSwizzler (~> 6.5)
+    - GoogleUtilities/Environment (~> 6.5)
+    - GoogleUtilities/Reachability (~> 6.5)
+    - GoogleUtilities/UserDefaults (~> 6.5)
+    - Protobuf (>= 3.9.2, ~> 3.9)
+  - FMPhotoPicker (1.1.1)
+  - GoogleAppMeasurement (6.4.0):
+    - GoogleUtilities/AppDelegateSwizzler (~> 6.0)
+    - GoogleUtilities/MethodSwizzler (~> 6.0)
+    - GoogleUtilities/Network (~> 6.0)
+    - "GoogleUtilities/NSData+zlib (~> 6.0)"
+    - nanopb (= 0.3.9011)
+  - GoogleDataTransport (5.1.0)
+  - GoogleDataTransportCCTSupport (2.0.1):
+    - GoogleDataTransport (~> 5.1)
+    - nanopb (~> 0.3.901)
+  - GoogleUtilities/AppDelegateSwizzler (6.5.2):
+    - GoogleUtilities/Environment
+    - GoogleUtilities/Logger
+    - GoogleUtilities/Network
+  - GoogleUtilities/Environment (6.5.2)
+  - GoogleUtilities/Logger (6.5.2):
+    - GoogleUtilities/Environment
+  - GoogleUtilities/MethodSwizzler (6.5.2):
+    - GoogleUtilities/Logger
+  - GoogleUtilities/Network (6.5.2):
+    - GoogleUtilities/Logger
+    - "GoogleUtilities/NSData+zlib"
+    - GoogleUtilities/Reachability
+  - "GoogleUtilities/NSData+zlib (6.5.2)"
+  - GoogleUtilities/Reachability (6.5.2):
+    - GoogleUtilities/Logger
+  - GoogleUtilities/UserDefaults (6.5.2):
+    - GoogleUtilities/Logger
+  - ImageSlideshow/Core (1.8.3)
+  - ImageSlideshow/SDWebImage (1.8.3):
+    - ImageSlideshow/Core
+    - SDWebImage (>= 3.7)
+  - IQKeyboardManagerSwift (6.5.5)
+  - MaterialComponents/AnimationTiming (108.0.0)
+  - MaterialComponents/Availability (108.0.0)
+  - MaterialComponents/Buttons (108.0.0):
+    - MaterialComponents/Elevation
+    - MaterialComponents/Ink
+    - MaterialComponents/private/Math
+    - MaterialComponents/Ripple
+    - MaterialComponents/ShadowElevations
+    - MaterialComponents/ShadowLayer
+    - MaterialComponents/Shapes
+    - MaterialComponents/Typography
+    - MDFInternationalization
+    - MDFTextAccessibility
+  - MaterialComponents/Elevation (108.0.0):
+    - MaterialComponents/Availability
+    - MaterialComponents/private/Color
+    - MaterialComponents/private/Math
+  - MaterialComponents/Ink (108.0.0):
+    - MaterialComponents/Availability
+    - MaterialComponents/private/Color
+    - MaterialComponents/private/Math
+  - MaterialComponents/OverlayWindow (108.0.0):
+    - MaterialComponents/Availability
+    - MaterialComponents/private/Application
+  - MaterialComponents/private/Application (108.0.0)
+  - MaterialComponents/private/Color (108.0.0):
+    - MaterialComponents/Availability
+  - MaterialComponents/private/KeyboardWatcher (108.0.0):
+    - MaterialComponents/private/Application
+  - MaterialComponents/private/Math (108.0.0)
+  - MaterialComponents/private/Overlay (108.0.0)
+  - MaterialComponents/Ripple (108.0.0):
+    - MaterialComponents/AnimationTiming
+    - MaterialComponents/Availability
+    - MaterialComponents/private/Color
+    - MaterialComponents/private/Math
+  - MaterialComponents/ShadowElevations (108.0.0)
+  - MaterialComponents/ShadowLayer (108.0.0):
+    - MaterialComponents/ShadowElevations
+  - MaterialComponents/Shapes (108.0.0):
+    - MaterialComponents/private/Color
+    - MaterialComponents/private/Math
+    - MaterialComponents/ShadowLayer
+  - MaterialComponents/Snackbar (108.0.0):
+    - MaterialComponents/AnimationTiming
+    - MaterialComponents/Availability
+    - MaterialComponents/Buttons
+    - MaterialComponents/Elevation
+    - MaterialComponents/OverlayWindow
+    - MaterialComponents/private/Application
+    - MaterialComponents/private/KeyboardWatcher
+    - MaterialComponents/private/Math
+    - MaterialComponents/private/Overlay
+    - MaterialComponents/ShadowElevations
+    - MaterialComponents/ShadowLayer
+    - MaterialComponents/Typography
+  - MaterialComponents/Typography (108.0.0):
+    - MaterialComponents/private/Application
+    - MaterialComponents/private/Math
+  - MDFInternationalization (2.0.0)
+  - MDFTextAccessibility (2.0.0)
+  - nanopb (0.3.9011):
+    - nanopb/decode (= 0.3.9011)
+    - nanopb/encode (= 0.3.9011)
+  - nanopb/decode (0.3.9011)
+  - nanopb/encode (0.3.9011)
+  - NVActivityIndicatorView (4.8.0):
+    - NVActivityIndicatorView/Presenter (= 4.8.0)
+  - NVActivityIndicatorView/Presenter (4.8.0)
+  - PromisesObjC (1.2.8)
+  - Protobuf (3.13.0)
+  - ReachabilitySwift (5.0.0)
+  - SDWebImage (5.7.0):
+    - SDWebImage/Core (= 5.7.0)
+  - SDWebImage/Core (5.7.0)
+  - SwiftyJSON (5.0.0)
+  - TagListView (1.4.0)
+  - TPKeyboardAvoidingSwift (3.2)
+  - UIScrollView-InfiniteScroll (1.1.0)
+
+DEPENDENCIES:
+  - ActiveLabel
+  - Alamofire
+  - BSImagePicker
+  - CarbonKit
+  - CountryPickerView
+  - CropViewController
+  - DropDown
+  - FBSDKLoginKit
+  - Firebase/Analytics
+  - Firebase/Crashlytics
+  - Firebase/Messaging
+  - FMPhotoPicker
+  - ImageSlideshow/SDWebImage
+  - IQKeyboardManagerSwift
+  - MaterialComponents/Snackbar
+  - NVActivityIndicatorView
+  - ReachabilitySwift
+  - SDWebImage
+  - SwiftyJSON
+  - TagListView
+  - TPKeyboardAvoidingSwift
+  - UIScrollView-InfiniteScroll
+
+SPEC REPOS:
+  trunk:
+    - ActiveLabel
+    - Alamofire
+    - BSImagePicker
+    - CarbonKit
+    - CountryPickerView
+    - CropViewController
+    - DropDown
+    - FBSDKCoreKit
+    - FBSDKLoginKit
+    - Firebase
+    - FirebaseAnalytics
+    - FirebaseAnalyticsInterop
+    - FirebaseCore
+    - FirebaseCoreDiagnostics
+    - FirebaseCoreDiagnosticsInterop
+    - FirebaseCrashlytics
+    - FirebaseInstallations
+    - FirebaseInstanceID
+    - FirebaseMessaging
+    - FMPhotoPicker
+    - GoogleAppMeasurement
+    - GoogleDataTransport
+    - GoogleDataTransportCCTSupport
+    - GoogleUtilities
+    - ImageSlideshow
+    - IQKeyboardManagerSwift
+    - MaterialComponents
+    - MDFInternationalization
+    - MDFTextAccessibility
+    - nanopb
+    - NVActivityIndicatorView
+    - PromisesObjC
+    - Protobuf
+    - ReachabilitySwift
+    - SDWebImage
+    - SwiftyJSON
+    - TagListView
+    - TPKeyboardAvoidingSwift
+    - UIScrollView-InfiniteScroll
+
+SPEC CHECKSUMS:
+  ActiveLabel: 5e3f4de79a1952d4604b845a0610d4776e4b82b3
+  Alamofire: 9d5c5f602928e512395b30950c5984eca840093c
+  BSImagePicker: 1c0d14fa6f1b55380cd49cbebe47584f10e180c6
+  CarbonKit: b60e24dbdb47179990d5e074efa87ab819c8de98
+  CountryPickerView: a894dbd79fe7b43ca0ab6f20363272aa12b03b74
+  CropViewController: 1aac40093c5739e60d992b04724a55d12a689a4c
+  DropDown: 8a2116376c1981888557f72ec2ffc9a5e0e456ec
+  FBSDKCoreKit: 5d55c8f3007c9c49b793617b9102e46355fc7e17
+  FBSDKLoginKit: d46aa04d9bb9990a4deb6441736fae24a8c94496
+  Firebase: f378c80340dd41c0ad0914af740c021eb282a04b
+  FirebaseAnalytics: a1a0b3327ceb5cd5b4bacffdb293f6c909aa087d
+  FirebaseAnalyticsInterop: 3f86269c38ae41f47afeb43ebf32a001f58fcdae
+  FirebaseCore: 9f495d3afacb7b558711e6218ebb14b1c51b5802
+  FirebaseCoreDiagnostics: e9b4cd8ba60dee0f2d13347332e4b7898cca5b61
+  FirebaseCoreDiagnosticsInterop: 296e2c5f5314500a850ad0b83e9e7c10b011a850
+  FirebaseCrashlytics: b9e729da8b80d9c45f234f791a73b5fe647d4c31
+  FirebaseInstallations: acb3216eb9784d3b1d2d2d635ff74fa892cc0c44
+  FirebaseInstanceID: cef67c4967c7cecb56ea65d8acbb4834825c587b
+  FirebaseMessaging: 828e66eb357a893e3cebd9ee0f6bc1941447cc94
+  FMPhotoPicker: 609abea30c1ac413f74ef8aae0a84288bfe319cb
+  GoogleAppMeasurement: 6e68a94d0eaeb1d73ef6b0ed4f7334e29d63ae29
+  GoogleDataTransport: b29a21d813e906014ca16c00897827e40e4a24ab
+  GoogleDataTransportCCTSupport: 6f15a89b0ca35d6fa523e1f752ef818588885988
+  GoogleUtilities: ad0f3b691c67909d03a3327cc205222ab8f42e0e
+  ImageSlideshow: 4694d7d699a1549582e7cc631fb392d8f91630f3
+  IQKeyboardManagerSwift: 0fb93310284665245591f50f7a5e38de615960b7
+  MaterialComponents: 5ce7930b30fafd4c1ba402abf8e460dbde90cb94
+  MDFInternationalization: 010097556d6b09d2c4ea38e0820ea6d37be6a314
+  MDFTextAccessibility: 85c09a1bd9c321f494348e632a25063bcda35a53
+  nanopb: 18003b5e52dab79db540fe93fe9579f399bd1ccd
+  NVActivityIndicatorView: d24b7ebcf80af5dcd994adb650e2b6c93379270f
+  PromisesObjC: c119f3cd559f50b7ae681fa59dc1acd19173b7e6
+  Protobuf: 3dac39b34a08151c6d949560efe3f86134a3f748
+  ReachabilitySwift: 985039c6f7b23a1da463388634119492ff86c825
+  SDWebImage: a99471f452bdfa0ca52ddf5b1adf2b61cab1d1eb
+  SwiftyJSON: 36413e04c44ee145039d332b4f4e2d3e8d6c4db7
+  TagListView: 987b0bdbb16cd9d9e7c0e2ec32aff37ecba8b173
+  TPKeyboardAvoidingSwift: ce1a75e0bc3af6b485f8bfa1d0a8320cfc565851
+  UIScrollView-InfiniteScroll: 3ef456bcbe759c19f510a383cff96e6647c98c98
+
+PODFILE CHECKSUM: dbccea036c509d02abeaab5441804cf76d7e84e4
+
+COCOAPODS: 1.10.1

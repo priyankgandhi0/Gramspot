@@ -1,0 +1,6 @@
+framework module Pods_GemSpot {
+  umbrella header "Pods-GemSpot-umbrella.h"
+
+  export *
+  module * { export * }
+}

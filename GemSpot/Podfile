@@ -1,0 +1,33 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
+
+target 'GemSpot' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for GemSpot
+  pod 'SwiftyJSON'
+  pod 'NVActivityIndicatorView'
+  pod 'DropDown'
+  pod 'TPKeyboardAvoidingSwift'  
+  pod 'CarbonKit'
+  pod 'Alamofire'
+  pod 'ReachabilitySwift'
+  pod 'MaterialComponents/Snackbar'
+  pod 'IQKeyboardManagerSwift'
+  pod 'CountryPickerView'
+  pod 'FBSDKLoginKit'
+  pod 'IQKeyboardManagerSwift'
+  pod 'TagListView'
+  pod 'CropViewController'
+  pod 'Firebase/Analytics'
+  pod 'Firebase/Crashlytics'
+  pod 'SDWebImage'
+  pod 'ImageSlideshow/SDWebImage'
+  pod 'ActiveLabel'
+  pod 'BSImagePicker'
+  pod 'UIScrollView-InfiniteScroll'
+  pod 'FMPhotoPicker'
+  pod 'Firebase/Messaging'
+
+end
